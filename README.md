@@ -1,6 +1,6 @@
 
 # exerciciosPython_facul
-Aprendendo sobre lógica com Python e alguns exercícios.
+Aprendendo sobre lógica de programção com Python.
 
 **CAP 2 - QUANDO A MÁQUINA COMEÇA A TOMAR DECISÕES - LISTA DE EXERCÍCIOS COM IFS**
 
